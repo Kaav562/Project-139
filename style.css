@@ -1,0 +1,14 @@
+body
+{
+    background: url("background1.jpg");
+}
+#Instructions
+{
+    margin-top: 2px;
+    float: right;
+}
+h1
+{
+    color:yellow;
+}
+    
